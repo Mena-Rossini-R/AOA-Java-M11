@@ -24,8 +24,8 @@ A reverse pair is defined as a pair (i,j) such that:
 ```
 /*
 Program to count reverse pairs in an array
-Developed by: Tamizharasi S
-Register Number: 212222040170 
+Developed by: Mena Rossini R
+Register Number: 212222040099
 */
 
 import java.util.*;
